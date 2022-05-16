@@ -16,7 +16,9 @@ footer{
   
 }
 
-
+body{
+  background-color: #E9ECEF;
+}
 
 #konum{
   position: relative;
