@@ -1,0 +1,25 @@
+.headers{
+    background-color: brown;
+}
+
+.logotext{
+    font-size: 40px;
+    font-family: fantasy;
+    
+    
+}
+
+footer{
+   
+  text-align: center;
+  position: relative;
+  
+}
+
+
+
+#konum{
+  position: relative;
+  top: 0px;
+}
+
